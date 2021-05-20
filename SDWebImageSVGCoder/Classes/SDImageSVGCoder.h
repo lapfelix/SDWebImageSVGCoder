@@ -61,7 +61,8 @@
 #import "SDWebImageOptionsProcessor.h"
 #import "SDImageIOAnimatedCoder.h"
 #import "SDImageHEICCoder.h"
-#import "SDImageAWebPCoder.h"#endif
+#import "SDImageAWebPCoder.h"
+#endif
 
 NS_ASSUME_NONNULL_BEGIN
 
