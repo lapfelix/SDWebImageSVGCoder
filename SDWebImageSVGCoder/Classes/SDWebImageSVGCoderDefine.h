@@ -8,7 +8,7 @@
 #if __has_include(<SDWebImage/SDWebImage.h>)
 #import <SDWebImage/SDWebImage.h>
 #else
-@import SDWebImage;
+#import "SDWebImage.h";
 #endif
 
 /**
